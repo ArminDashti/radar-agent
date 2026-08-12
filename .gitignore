@@ -2,3 +2,5 @@
 bin/
 *.exe
 *.log
+
+# github-commit-push-all: auto-ignore large files (>5MB)
